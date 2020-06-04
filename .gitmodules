@@ -1,3 +1,7 @@
 [submodule "test"]
 	path = test
 	url = git@github.com:manherfo/test.git
+[submodule "test1"]
+	path = test1
+	url = git@github.com:manherfo/test.git
+	branch = master
